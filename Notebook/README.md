@@ -3,7 +3,7 @@
 1. [Chapter 1: Data Import](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#1.-Data-Import)
 2. [Chapter 2: Exploratory Data Analysis](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.-Exploratory-Data-Analysis)
    - [2.1 Exploring and Visualizing Missing Data](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.1-Exploring-and-visualizing-missing-data)
-   - [2.2 Exploring Single Categorical Features](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.2-Exploring-Single-Categorical-Features)
+   - [2.2 Exploring Single Categorical Features](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.2-Exploring-single-categorical-features)
    - [2.3 Exploring Single Numerical Features](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.3-Exploring-Single-Numerical-Features)
    - [2.4 Exploring Relationships Between Variables](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4-Exploring-Relationships-Between-Variables)
      - [2.4.1 Numerical-to-Numerical Relationships](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4.1-Numerical-to-Numerical-Relationships)
