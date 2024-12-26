@@ -1,5 +1,5 @@
 [View Notebook on nbviewer](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb)
-# Table of Contents for [Prudential-Life-Insurance-Assessment Notebook](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb)
+# Table of Contents 
 
 1. [Chapter 1: Data Import](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#Data-Import)
 2. [Chapter 2: Exploratory Data Analysis](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#Exploratory-Data-Analysis)
