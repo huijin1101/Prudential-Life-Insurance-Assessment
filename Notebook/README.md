@@ -6,7 +6,7 @@
    - [2.2 Exploring Single Categorical Features](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.2-Exploring-Single-Categorical-Features)
    - [2.3 Exploring Single Numerical Features](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.3-Exploring-Single-Numerical-Features)
    - [2.4 Exploring Relationships Between Variables](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4-Exploring-Relationship-between-Variables)
-     - [2.4.1 Numerical-to-Numerical Relationships](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4.1-Numerical-to-Numerical-Relationships)
+     - [2.4.1 Numerical-to-Numerical Relationships](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4.1-Numerical-to-numerical-relationships-(the-relationship-between-numerical-features))
      - [2.4.2 Categorical-to-Numerical Relationships](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4.2-Categorical-to-Numerical-Relationships)
      - [2.4.3 Categorical-to-Categorical Relationships](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#2.4.3-Categorical-to-Categorical-Relationships)
 3. [Chapter 3: Feature Engineering](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#Chapter-3:-Feature-Engineering)
