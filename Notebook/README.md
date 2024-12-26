@@ -12,7 +12,7 @@
 3. [Chapter 3: Feature Engineering](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#Chapter-3:-Feature-Engineering)
 4. [Chapter 4: Model Tuning](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#Chapter-4:--Model-Tuning)
    - [4.1 XGBoost Model Tuning Without Data Preparation](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#4.1-XGBoost--Model-Tuning-without-Data-Preparation)
-   - [4.2 LightGBM Model Tuning Without Data Preparation](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#4.2-LightGBM-Model-Tuning-Without-Data-Preparation)
+   - [4.2 LightGBM Model Tuning Without Data Preparation](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#4.2-LightGBM--Model-Tuning-without-Data-Preparation)
    - [4.3 Stacking XGBoost and LightGBM](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#4.3-Stacking-XGBoost-and-LightGBM)
    - [4.4 Other ML Models Tuning With Data Preparation](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#4.4-Other-ML-Models-Tuning-With-Data-Preparation)
      - [4.4.1 Logistic Regression, Decision Tree, and Random Forest Models Tuning](https://nbviewer.org/github/huijin1101/Prudential-Life-Insurance-Assessment/blob/main/Notebook/MLProject_HuijinCao.ipynb#4.4.1-Logistic-Regression-Decision-Tree-and-Random-Forest-Models-Tuning)
