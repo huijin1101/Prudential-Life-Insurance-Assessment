@@ -12,34 +12,11 @@ This project is based on a Kaggle competition from 2015, where Prudential Life I
 ![Approach](images/ML_project_metho.png)
 ## Key Highlights
 1. Comprehensive Exploratory Data Analysis (EDA)
-   - Diagnosed data quality issues, including missing values and skewed distributions.
-   - Analyzed feature relationships to uncover redundant variables and isolate key features for targeted engineering and transformation.
-   - Provided actionable insights that guided feature selection and data preparation, directly contributing to improved model performance.
+![EDA](images/ML_project_contri1.png)
 2. Advanced Feature Engineering
-   - Missing Data Handling:
-     - Dropped features with large missing values and low importance.
-     - Imputed significant features using constant, median, or mode strategies.
-   - Numerical Feature Transformations:
-     - Dropped features with low importance.
-     - Applied Box-Cox transformation with Standardize to reduce skewness.
-     - Designed customized binning for highly skewed features.
-   - Categorical Feature Encoding:
-     - Dropped features with low importance.
-     - Used target encoding for the remaining features strongly correlated with the target variable.
-   - Addressed Label Imbalance:
-     - Explored multiple techniques, including SMOTE, ADASYN, and Class Weights, to tackle class imbalance.
-     - Selected **SMOTE** for its superior performance, significantly enhancing model accuracy and recall for minority classes.
+![Feature Engineering](images/ML_project_contri2.png)
 3. Robust Machine Learning Modeling
-   - Experimented with diverse machine learning algorithms, including:
-     - Logistic Regression, Decision Tree, Random Forest
-     - XGBoost, LightGBM, and Neural Networks
-     - Stacked Models: Combined XGBoost and LightGBM for improved generalization.
-   - Leveraged advanced hyperparameter tuning methods:
-     - RandomizedSearchCV and BayesSearchCV to optimize model performance efficiently.
-   - Determined XGBoost as the best-performing model, achieving:
-     - Accuracy: ~60%
-     - F1-Macro: ~52%
-     - Significantly surpassed the baseline model (accuracy ~33%).
+![ML Modeling](images/ML_project_contri3.png)  
 
 ## Results
 ### Modeling Performance
