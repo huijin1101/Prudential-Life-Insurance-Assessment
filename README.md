@@ -12,7 +12,7 @@ This project is based on a Kaggle competition from 2015, where Prudential Life I
 ![Approach](images/ML_project_metho.png)
 ## Key Highlights
 1. Comprehensive Exploratory Data Analysis (EDA)
-   - Diagnosed data quality issues, including missing values and skewed distributions.
+  - Diagnosed data quality issues, including missing values and skewed distributions.
  - Analyzed feature relationships to uncover redundant variables and isolate key features for targeted engineering and transformation.
  - Provided actionable insights that guided feature selection and data preparation, directly contributing to improved model performance.
 2. Advanced Feature Engineering
