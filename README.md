@@ -37,7 +37,7 @@ This project is based on a Kaggle competition from 2015, where Prudential Life I
 XGBoost achieved an accuracy of ~60% and an F1-macro score of ~52%, significantly surpassing the baseline majority-class model (accuracy ~33%).
 
 ## Conclusion
-This project demonstrates the importance of comprehensive EDA and advanced feature engineering in tackling complex machine learning problems. By addressing data quality issues, leveraging advanced preprocessing techniques, and experimenting with robust models, we significantly improved performance metrics for an ordinal classification task.
+This project demonstrates the importance of comprehensive EDA and advanced feature engineering in tackling complex machine learning problems. By addressing data quality issues, leveraging advanced preprocessing techniques, and experimenting with robust models, I significantly improved performance metrics for an ordinal classification task.
 
 These methodologies are not only effective in the insurance domain but also transferable to other industries requiring predictive modeling on structured datasets.
 
