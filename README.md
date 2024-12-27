@@ -19,7 +19,7 @@ This project is based on a Kaggle competition from 2015, where Prudential Life I
 <img src="images/ML_project_contri2.png" alt="Feature Engineering" width="1000" height="400" />
 3. Robust Machine Learning Modeling:
 
-<img src="images/ML_project_contri3.png" alt="ML Modeling" width="800" height="400" />
+<img src="images/ML_project_contri3.png" alt="ML Modeling" width="600" height="400" />
 ## Results
 ### Modeling Performance
 
