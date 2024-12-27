@@ -13,7 +13,7 @@ This project is based on a Kaggle competition from 2015, where Prudential Life I
 ## Key Highlights
 1. Comprehensive Exploratory Data Analysis (EDA):
    
-<img src="images/ML_project_contri1.png" alt="EDA" width="600" height="400" />
+<img src="images/ML_project_contri1.png" alt="EDA" width="600" height="300" />
 2. Advanced Feature Engineering:
 
 <img src="images/ML_project_contri2.png" alt="Feature Engineering" width="1000" height="400" />
