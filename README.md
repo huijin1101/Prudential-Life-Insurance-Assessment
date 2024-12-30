@@ -20,6 +20,7 @@ This project is based on a Kaggle competition from 2015, where Prudential Life I
 3. Robust Machine Learning Modeling:
 
 <img src="images/ML_project_contri3.png" alt="ML Modeling" width="600" height="500" />
+
 ## Results
 ### Modeling Performance
 
